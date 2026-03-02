@@ -1,0 +1,8 @@
+
+{
+  "name": "DeepTraceX - Advanced AI Forensics",
+  "description": "A premier AI forensic engine developed by Saquib Nazeer. Detects synthetic artifacts in images using state-of-the-art neural analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
