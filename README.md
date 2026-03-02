@@ -1,4 +1,8 @@
-#Developer Details:
+# DeepTraceX
+
+DeepTraceX is a powerful tool designed for analyzing and tracing AI generated images using advanced algorithms. 
+
+## Developer Details:
 
 Saquib Nazeer
 bhatsaakib505@gmail.com
